@@ -2,7 +2,7 @@
 
 JUSTIFICATIVA:
 
-Automatizar os endpoints abaixo com a utilização da ferramenta Cypress:
+Automação dos endpoints abaixo utilizando Cypress:
 
 - GET/api/v1/Books
 - GET/api/v1/Books/{id}
