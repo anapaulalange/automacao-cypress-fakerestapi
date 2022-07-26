@@ -1,4 +1,4 @@
-# teste_api_cypress_
+# Testes de API - Cypress
 
 - JUSTIFICATIVA:
 
