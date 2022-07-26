@@ -1,6 +1,6 @@
 # teste_api_cypress_
 
-JUSTIFICATIVA:
+- JUSTIFICATIVA:
 
 Automação dos endpoints abaixo utilizando Cypress:
 
