@@ -1,4 +1,4 @@
-# Testes de API - Cypress
+# Testes de API com Cypress
 
 - JUSTIFICATIVA:
 
@@ -14,5 +14,5 @@ API utilizada: https://fakerestapi.azurewebsites.net/index.html
 
 Controller: 'Books':
 
-O intuito é colocar em prática os conhecimentos sobre automação adquiridos nos cursos realizados.
+O intuito é colocar em prática os conhecimentos sobre automação adquiridos nos cursos realizados
 
