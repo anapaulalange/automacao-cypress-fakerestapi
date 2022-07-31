@@ -12,7 +12,9 @@ Automação dos endpoints abaixo utilizando Cypress:
 
 API utilizada: https://fakerestapi.azurewebsites.net/index.html
 
-Controller: 'Books'
+Controller: 'Books':
+
+![image](https://user-images.githubusercontent.com/68241688/182008089-128a8522-664a-464b-bbc8-1608cfe44edd.png)
 
 O intuito é colocar em prática os conhecimentos sobre automação adquiridos nos cursos realizados.
 
