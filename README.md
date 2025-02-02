@@ -4,11 +4,11 @@
 
 Automação dos endpoints abaixo utilizando Cypress:
 
-- GET/api/v1/Books
-- GET/api/v1/Books/{id}
-- POST/api/v1/Books
-- PUT/api/v1/Books/{id}
-- DELETE/api/v1/Books/{id}
+- GET/api/v1/Books;
+- GET/api/v1/Books/{id};
+- POST/api/v1/Books;
+- PUT/api/v1/Books/{id};
+- DELETE/api/v1/Books/{id};
 
 API utilizada: https://fakerestapi.azurewebsites.net/index.html
 
