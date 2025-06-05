@@ -1,5 +1,5 @@
 # Automação de Testes de API para a API Fake Rest API com Cypress
-🚀 Este projeto tem como objetivo demonstrar a automação de testes de API para a API Restful, utilizando o framework Cypress. Os testes cobrem funcionalidades essenciais como:
+🚀 Este projeto tem como objetivo demonstrar a automação de testes de API para a API Fake Rest API, utilizando o framework Cypress. Os testes cobrem endpoints essenciais como:
 
 - GET/api/v1/Books;
 - GET/api/v1/Books/{id};
@@ -33,7 +33,7 @@ npm install
 
 Ou, se você usa Yarn:
 
-- # yarn install
+yarn install
 
 Isso criará a pasta node_modules/.
 
