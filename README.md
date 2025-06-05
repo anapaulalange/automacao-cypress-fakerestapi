@@ -33,7 +33,7 @@ npm install
 
 Ou, se você usa Yarn:
 
-#yarn install
+- # yarn install
 
 Isso criará a pasta node_modules/.
 
